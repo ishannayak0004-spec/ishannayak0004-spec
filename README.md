@@ -6,11 +6,11 @@
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=ishannayak0004&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ishannayak0004-spec&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/ishannayak0004?style=for-the-badge&logo=github&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/ishannayak0004-spec?style=for-the-badge&logo=github&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/stars/ishannayak0004?style=for-the-badge&logo=github&color=2563EB"/>
+<img src="https://img.shields.io/github/stars/ishannayak0004-spec?style=for-the-badge&logo=github&color=2563EB"/>
 
 <img src="https://img.shields.io/badge/Open%20to-AI%20Internships-success?style=for-the-badge"/>
 
@@ -757,9 +757,9 @@ Continuous Improvement
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishannayak0004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishannayak0004-spec&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishannayak0004&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishannayak0004-spec&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -767,7 +767,7 @@ Continuous Improvement
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishannayak0004&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishannayak0004-spec&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -777,7 +777,7 @@ Continuous Improvement
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ishannayak0004&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ishannayak0004-spec&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -787,7 +787,7 @@ Continuous Improvement
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishannayak0004&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishannayak0004-spec&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -799,7 +799,7 @@ Continuous Improvement
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ishannayak0004/ishannayak0004/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ishannayak0004-spec/ishannayak0004-spec/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -1072,7 +1072,7 @@ I am always interested in:
 </a>
 
 <a href="https://github.com/ishannayak0004">
-<img src="https://img.shields.io/badge/GitHub-ishannayak0004-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ishannayak0004-spec-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
