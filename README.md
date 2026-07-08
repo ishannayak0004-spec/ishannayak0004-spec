@@ -795,7 +795,7 @@ Continuous Improvement
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action (`snake.yml`) in Part 5.
+
 
 <div align="center">
 
